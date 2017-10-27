@@ -23,6 +23,15 @@
 			"photo": "img/shrodingcat.png",
 			"name": "Schrödingcat",
 			"age": "-3"
+		},
+		{
+			"name": "Mistoffeles",
+			"age": "12"
+		},
+		{
+			"photo": "https://cdn.rawgit.com/fulvioromanin/mv-data/cd30165e4b93bf773f86b89976aea2c38b65eb0d/images/1.jpg",
+			"name": "Ensoulcat",
+			"age": "41"
 		}
 	]
 }
